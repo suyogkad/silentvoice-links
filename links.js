@@ -8,4 +8,4 @@ window.LINKS = {
 
 // Optional scan stats: create a free site at goatcounter.com and put its code here,
 // e.g. "silentvoice" for silentvoice.goatcounter.com. Leave empty to disable.
-window.GOATCOUNTER = "";
+window.GOATCOUNTER = "silentvoice";
